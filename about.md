@@ -1,7 +1,5 @@
 ---
 layout: page
-title: About
+title: lifelong learner
 permalink: /about/
 ---
-
-
