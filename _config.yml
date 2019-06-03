@@ -16,9 +16,9 @@
 title: Fatih Budak
 email: budakf@itu.edu.tr
 description: >- # this means to ignore newlines until "baseurl:"
-  This web site includes notes on myself to remember 
-  older experiences and information about computer science
-  especially Modern C++, Qt and Qml.
+  This web site includes notes on myself 
+  to remember older experiences and 
+  information about computer science
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  budakf
